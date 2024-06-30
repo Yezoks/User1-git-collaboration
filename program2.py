@@ -12,6 +12,12 @@ print ("Added 5th line from User2 local system")
 print ("Added 6th line from User2 local system")
 #-----------------------------------------------
 print ("Added 7th line from User2 local system")
+#-----------------------------------------------
+print ("Added 8th line from User2 local system")
+#-----------------------------------------------
+print ("Added 9th line from User2 local system")
+#-----------------------------------------------
+print ("Added 10th line from User2 local system")
 
 ======================
 STOICISM: 10 LESSONS Men Learn Too Late in LIFE
@@ -46,3 +52,5 @@ STOICISM: 10 LESSONS Men Learn Too Late in LIFE
 - do not just accept change but welcome it as an old friend, knowing well that it brings seed of growth
 - it is an opportunity for discovery and self development
 - it is about finding silver lining in an unexpected situation
+=======
+

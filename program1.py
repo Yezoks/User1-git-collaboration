@@ -13,7 +13,7 @@ print ("Added 6th line from User2 local system")
 print ("Added 6th line from User2 local system")
 #-----------------------------------------------
 print ("Added 7th line from User2 local system")
-==========================================
+
 6. The futility of material pursuits
 -  True wealth is not having many possessions but having few wants
 - Find contentment in simplicity and self sufficiency
@@ -45,4 +45,3 @@ print ("Added 7th line from User2 local system")
 - Each act of forgiveness strengthens our character and deepens our capacity for compassion and understanding.
 - 
 
-=============================
