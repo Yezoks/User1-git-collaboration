@@ -19,7 +19,14 @@ print ("Added 9th line from User2 local system")
 #-----------------------------------------------
 print ("Added 10th line from User2 local system")
 
-======================
+interface GigabitEthernet1/0/49
+ description PTP(IP-ACCESS-PTP-NNEKA-RESIDENCE-10.110.0.223)
+ switchport access vlan 21
+ switchport trunk allowed vlan 500,738
+ switchport mode trunk
+ load-interval 30
+
+
 STOICISM: 10 LESSONS Men Learn Too Late in LIFE
 1. Acceptance of what you cannot control
 - While we can't command the weather, stop the clock or control other actions, we can master our REACTIONS, THOUGHTS, and our DECISIONS.
